@@ -25,8 +25,7 @@ const ShoeIndex = ({ sortId, setSortId }) => {
           </Select>
         </Header>
         <Spacer size={34} />
-        {/*<ShoeGrid />*/}
-        <div> This space intentionally left blank. </div>
+        <ShoeGrid />
       </MainColumn>
       <LeftColumn>
         <Breadcrumbs>
